@@ -1,2 +1,2 @@
 # Filmetrics
-Code for reading and analysis of yilmetrics scans
+Code for reading and analysis of Filmetrics scans
